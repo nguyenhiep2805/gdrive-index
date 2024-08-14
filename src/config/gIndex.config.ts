@@ -193,9 +193,9 @@ const config: z.input<typeof Schema_Config> = {
      *
      * You can set it to undefined if you don't want to use it
      */
-    siteName: "drive.nguyenhiep.me",
+    siteName: "Chia sẻ khoá học - Hiệp Code",
     siteNameTemplate: "%s - %t",
-    siteDescription: "A Google Drive Index built using Next.js",
+    siteDescription: "Chia sẻ khoá học online hoàn toàn miễn phí",
 
     /**
      * Site Icon will be used on navbar
@@ -208,8 +208,8 @@ const config: z.input<typeof Schema_Config> = {
      * Both are used on metadata
      * Affects the value of footer
     */
-    siteAuthor: "nguyenhiep",
-    twitterHandle: "@nguyenhiep",
+    siteAuthor: "hiepcode",
+    twitterHandle: "",
 
     /**
      * Next.js Metadata robots object
@@ -227,7 +227,7 @@ const config: z.input<typeof Schema_Config> = {
      *
      * @default: false
      */
-    showFileExtension: false,
+    showFileExtension: true,
 
     /**
      * Footer content
@@ -246,7 +246,7 @@ const config: z.input<typeof Schema_Config> = {
      * - {{ creator }} will be replaced with mbaharip if you want to credit me
      */
     footer: [
-      "{{ siteName }} *v{{ version }}* @ {{ repository }}",
+      "{{ siteName }} *v{{ version }}*",
       "{{ year }} - Made with ❤️ by **{{ author }}**",
     ],
 
