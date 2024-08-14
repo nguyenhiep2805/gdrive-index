@@ -193,7 +193,7 @@ const config: z.input<typeof Schema_Config> = {
      *
      * You can set it to undefined if you don't want to use it
      */
-    siteName: "drive-nguyenhiep-me",
+    siteName: "drive.nguyenhiep.me",
     siteNameTemplate: "%s - %t",
     siteDescription: "A Google Drive Index built using Next.js",
 
