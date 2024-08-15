@@ -154,16 +154,6 @@ It might need a database, but idk if I can implement it without the need of data
   `yarn dev`
 - Check the app on `http://localhost:3000`
 
-## How to Contribute
-
-Want to add new feature or improve the existing one? or you find a bug and fixed it yourself?
-
-- Please check the issue tab first to see if someone already reporting a bug, or if you want to check any new feature / enhancement that not yet implemented
-- Use code base from `v2` branch instead of the `main`, since it was made for development on current version
-- Create a Pull Request, and wait for me checking your code
-- [Ko-fi (USD)](https://ko-fi.com/mbaharip)
-- [Saweria (IDR)](https://saweria.co/mbaharip)
-
 ## License
 
 This project is licensed under the AGPL-3.0 License - see the [LICENSE](LICENSE) file for details.
