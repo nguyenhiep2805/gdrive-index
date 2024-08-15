@@ -161,12 +161,6 @@ Want to add new feature or improve the existing one? or you find a bug and fixed
 - Please check the issue tab first to see if someone already reporting a bug, or if you want to check any new feature / enhancement that not yet implemented
 - Use code base from `v2` branch instead of the `main`, since it was made for development on current version
 - Create a Pull Request, and wait for me checking your code
-
-## Support and Donations
-
-If you think I deserve it, you can support me by:
-
-- [Paypal (USD)](https://paypal.me/mbaharip)
 - [Ko-fi (USD)](https://ko-fi.com/mbaharip)
 - [Saweria (IDR)](https://saweria.co/mbaharip)
 
